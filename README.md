@@ -139,10 +139,10 @@ DevTools listening on ws://127.0.0.1:51045/devtools/browser/849693f1-6513-4a9c-9
 ------------------------------------------------------------------------------------------------------------------
 **Relatório Imágem**
 
-![Relatório Mochawesome] (https://raw.githubusercontent.com/jose43jr/cypress-login-report-/main/mochawesome-preview.png))
+![Relatório Mochawesome] (![Relatório Mochawesome](https://raw.githubusercontent.com/jose43jr/cypress-login-report-/main/mochawesome-preview.png)))
 
 ```md
-![Relatório Mochawesome](https://raw.githubusercontent.com/jose43jr/cypress-login-report/main/mochawesome-preview.png)
+![Relatório Mochawesome](![Relatório Mochawesome](https://raw.githubusercontent.com/jose43jr/cypress-login-report-/main/mochawesome-preview.png))
 ```
 
 ---
